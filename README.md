@@ -11,8 +11,6 @@ The VL53L1X measures distance using LIDAR. It emits a pulse of light with a wave
 The included Python program waits for the user’s input, then allows the MCU and ToF sensor to boot. Once this process is complete, an onboard push button is used to start/stop data acquisition. After all planes have been scanned along the orthogonal axis, the included Python script will calculate the correct XYZ coordinates and save them to a file. This file is then used to generate a 3D visualization of the scan.
 
 See 2DX_ProjectReport_josepc11.pdf for more detailed information.
-
-
-Below is a preview 
+ 
 
 ![alt text](https://github.com/christy-josephanton/3D-Scanning-System/blob/main/Hallway_Sample.png?raw=true)
