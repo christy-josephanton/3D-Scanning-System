@@ -1,0 +1,16 @@
+.\objects\josepc11_2dx3_project.o: josepc11_2dx3_project.c
+.\objects\josepc11_2dx3_project.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\josepc11_2dx3_project.o: tm4c1294ncpdt.h
+.\objects\josepc11_2dx3_project.o: vl53l1x_api.h
+.\objects\josepc11_2dx3_project.o: vl53l1_platform.h
+.\objects\josepc11_2dx3_project.o: vl53l1_types.h
+.\objects\josepc11_2dx3_project.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\josepc11_2dx3_project.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\josepc11_2dx3_project.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\josepc11_2dx3_project.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\josepc11_2dx3_project.o: PLL.h
+.\objects\josepc11_2dx3_project.o: SysTick.h
+.\objects\josepc11_2dx3_project.o: uart.h
+.\objects\josepc11_2dx3_project.o: onboardLEDs.h
+.\objects\josepc11_2dx3_project.o: stepperMotor.h
+.\objects\josepc11_2dx3_project.o: testBusSpeed.h
